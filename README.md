@@ -19,3 +19,4 @@
 # Hell versions (betas can be posted to test features and say yes or no on it)
 1. v2.5
 2. v2.1
+3. Hell on earth
